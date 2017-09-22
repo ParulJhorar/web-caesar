@@ -34,8 +34,9 @@ form= """
             </label>
             <br>
             
-            <textarea name="text" palceholder{0}> {0}  </textarea>  
-            <input type="submit">
+            <textarea name="text">{0}</textarea>  
+            <br></br>
+            <input type="submit" value="Submit">
         </form>   
          
     </body>
